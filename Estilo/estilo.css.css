@@ -1,0 +1,13 @@
+.titulo{
+    width: 700px;
+    height: 50px;
+    background-color: aquamarine;
+    margin-bottom: 30px;
+}
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display:inline-block;
+    margin-right:  47px;
+}
